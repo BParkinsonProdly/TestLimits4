@@ -1,50 +1,50 @@
 "Guid","AccountNumber","AccountSource","Active__c","AnnualRevenue","BillingCity","BillingCountry","BillingGeocodeAccuracy","BillingLatitude","BillingLongitude","BillingPostalCode","BillingState","BillingStreet","CustomerPriority__c","Description","DunsNumber","Fax","Industry","Jigsaw","NaicsCode","NaicsDesc","Name","NumberOfEmployees","NumberofLocations__c","Ownership","Phone","Rating","SBQQ__AssetQuantitiesCombined__c","SBQQ__CoTermedContractsCombined__c","SBQQ__CoTerminationEvent__c","SBQQ__ContractCoTermination__c","SBQQ__IgnoreParentContractedPrices__c","SBQQ__PreserveBundle__c","SBQQ__PriceHoldEnd__c","SBQQ__RenewalModel__c","SBQQ__RenewalPricingMethod__c","SBQQ__TaxExempt__c","SLAExpirationDate__c","SLASerialNumber__c","SLA__c","ShippingCity","ShippingCountry","ShippingGeocodeAccuracy","ShippingLatitude","ShippingLongitude","ShippingPostalCode","ShippingState","ShippingStreet","Sic","SicDesc","Site","TickerSymbol","Tradestyle","Type","UpsellOpportunity__c","Website","YearStarted"
-058d75a3-c4e1-4315-8a06-b52a9155b23a,CC213425,"#N/A",Yes,9.5E8,Paris,France,"#N/A","#N/A","#N/A",75251,"#N/A",2 Place Jussieu,"#N/A","#N/A","#N/A",(014) 427-4428,Construction,"#N/A","#N/A","#N/A",Pyramid Construction Inc.,2680,17.0,Public,(014) 427-4427,"#N/A",false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2019-10-08,9840,Silver,Paris,France,"#N/A","#N/A","#N/A",75251,"#N/A",2 Place Jussieu,4253,"#N/A","#N/A",PYR,"#N/A",Customer - Channel,Maybe,www.pyramid.com,"#N/A"
-0b0a2a81-aae3-4f77-80ec-f34adfdc2240,CC978213,"#N/A",Yes,3.0E7,Mountain View,"#N/A","#N/A","#N/A","#N/A","#N/A",CA,"345 Shoreline Park
-Mountain View, CA 94043
-USA",Low,Genomics company engaged in mapping and sequencing of the human genome and developing gene-based drugs,"#N/A",(650) 867-9895,Biotechnology,"#N/A","#N/A","#N/A",GenePoint,265,1.0,Private,(650) 867-3450,Cold,false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2019-10-08,7324,Bronze,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","345 Shoreline Park
-Mountain View, CA 94043
-USA",3712,"#N/A","#N/A","#N/A","#N/A",Customer - Channel,Yes,www.genepoint.com,"#N/A"
-23742d63-a70c-430b-9f5b-e5186d3b565d,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",testAcct,"#N/A","#N/A","#N/A","#N/A","#N/A",false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
-5b9139d3-659c-4d4d-a6d0-56a079be214e,CC634267,"#N/A",Yes,5.0E7,Lawrence,USA,"#N/A","#N/A","#N/A",66045,KS,1301 Hoch Drive,Low,"#N/A","#N/A",(785) 241-6201,Consulting,"#N/A","#N/A","#N/A",Dickenson plc,120,2.0,Private,(785) 241-6200,"#N/A",false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2019-10-08,7425,Bronze,Lawrence,USA,"#N/A","#N/A","#N/A",66045,KS,1301 Hoch Drive,6752,"#N/A","#N/A","#N/A","#N/A",Customer - Channel,No,dickenson-consulting.com,"#N/A"
-81efb5a2-a743-4c36-8a82-c9e112194087,CD355118,"#N/A",Yes,5.6E9,New York,"#N/A","#N/A","#N/A","#N/A","#N/A",NY,"1301 Avenue of the Americas 
-New York, NY 10019
-USA",High,World's third largest oil and gas company.,"#N/A",(212) 842-5501,Energy,"#N/A","#N/A","#N/A",United Oil & Gas Corp.,145000,955.0,Public,(212) 842-5500,Hot,false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2019-10-08,6654,Platinum,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","1301 Avenue of the Americas 
-New York, NY 10019
-USA",4437,"#N/A","#N/A",UOS,"#N/A",Customer - Direct,Yes,http://www.uos.com,"#N/A"
-9b6a3ef9-288a-4060-95c6-a331a7f0891c,CD451796,"#N/A",Yes,1.39E8,Austin,"#N/A","#N/A","#N/A","#N/A","#N/A",TX,"312 Constitution Place
+141553e7-f982-4cf7-b069-280dca3b2be4,CD451796,"#N/A",Yes,1.39E8,Austin,"#N/A","#N/A","#N/A","#N/A","#N/A",TX,"312 Constitution Place
 Austin, TX 78767
 USA",Medium,"Edge, founded in 1998, is a start-up based in Austin, TX. The company designs and manufactures a device to convert music from one digital format to another. Edge sells its product through retailers and its own website.","#N/A",(512) 757-9000,Electronics,"#N/A","#N/A","#N/A",Edge Communications,1000,2.0,Public,(512) 757-6000,Hot,false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2019-04-07,2657,Silver,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","312 Constitution Place
 Austin, TX 78767
 USA",6576,"#N/A","#N/A",EDGE,"#N/A",Customer - Direct,Maybe,http://edgecomm.com,"#N/A"
-9f1bcf61-7e19-46d1-a968-f094e647924f,CD656092,"#N/A","#N/A",3.5E8,Burlington,USA,"#N/A","#N/A","#N/A",27215,NC,525 S. Lexington Ave,"#N/A","#N/A","#N/A",(336) 222-8000,Apparel,"#N/A","#N/A","#N/A",Burlington Textiles Corp of America,9000,6.0,Public,(336) 222-7000,Warm,false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2019-04-07,5367,Silver,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",546732,"#N/A","#N/A",BTXT,"#N/A",Customer - Direct,Maybe,www.burlington.com,"#N/A"
-a4c4058f-8792-43d7-ad32-29ecde288f8f,CD355119-A,"#N/A",Yes,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",UK,"Kings Park, 17th Avenue, Team Valley Trading Estate,
+2d41967d-0c63-4fa8-bc30-1e7b9db9a711,CD656092,"#N/A","#N/A",3.5E8,Burlington,USA,"#N/A","#N/A","#N/A",27215,NC,525 S. Lexington Ave,"#N/A","#N/A","#N/A",(336) 222-8000,Apparel,"#N/A","#N/A","#N/A",Burlington Textiles Corp of America,9000,6.0,Public,(336) 222-7000,Warm,false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2019-04-07,5367,Silver,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",546732,"#N/A","#N/A",BTXT,"#N/A",Customer - Direct,Maybe,www.burlington.com,"#N/A"
+41773964-b5b0-4870-8b14-64cce5e930a7,CD439877,"#N/A",Yes,5.0E8,Chicago,"#N/A","#N/A","#N/A","#N/A","#N/A",IL,"2334 N. Michigan Avenue, Suite 1500
+Chicago, IL 60601, USA",High,"Chain of hotels and resorts across the US, UK, Eastern Europe, Japan, and SE Asia.","#N/A",(312) 596-1500,Hospitality,"#N/A","#N/A","#N/A",Grand Hotels & Resorts Ltd,5600,57.0,Public,(312) 596-1000,Warm,false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2019-10-08,5572,Gold,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","2334 N. Michigan Avenue, Suite 1500
+Chicago, IL 60601, USA",2268,"#N/A","#N/A",GHTL,"#N/A",Customer - Direct,Yes,www.grandhotels.com,"#N/A"
+4498ae85-7b93-422e-abb0-900fd7ece7b1,CD355119-A,"#N/A",Yes,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",UK,"Kings Park, 17th Avenue, Team Valley Trading Estate,
 Gateshead, Tyne and Wear NE26 3HS
 United Kingdom",High,"#N/A","#N/A",+44 191 4956620,Energy,"#N/A","#N/A","#N/A","United Oil & Gas, UK",24000,34.0,Public,+44 191 4956203,"#N/A",false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2019-04-07,3479,Platinum,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","Kings Park, 17th Avenue, Team Valley Trading Estate,
 Gateshead, Tyne and Wear NE26 3HS
 United Kingdom",4437,"#N/A","#N/A",UOS,"#N/A",Customer - Direct,No,http://www.uos.com,"#N/A"
-a7b21a2f-8f96-4d31-bb63-1a3146e1645c,CD736025,"#N/A",Yes,"#N/A",Tucson,"#N/A","#N/A","#N/A","#N/A","#N/A",AZ,"888 N Euclid 
+49330310-6d25-4b8e-88ae-8f6ab5f96ed9,CC213425,"#N/A",Yes,9.5E8,Paris,France,"#N/A","#N/A","#N/A",75251,"#N/A",2 Place Jussieu,"#N/A","#N/A","#N/A",(014) 427-4428,Construction,"#N/A","#N/A","#N/A",Pyramid Construction Inc.,2680,17.0,Public,(014) 427-4427,"#N/A",false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2019-10-08,9840,Silver,Paris,France,"#N/A","#N/A","#N/A",75251,"#N/A",2 Place Jussieu,4253,"#N/A","#N/A",PYR,"#N/A",Customer - Channel,Maybe,www.pyramid.com,"#N/A"
+49c09210-50a0-494c-b8ee-871720ad937b,CD736025,"#N/A",Yes,"#N/A",Tucson,"#N/A","#N/A","#N/A","#N/A","#N/A",AZ,"888 N Euclid 
 Hallis Center, Room 501
 Tucson, AZ 85721
 United States",Medium,"Leading university in AZ offering undergraduate and graduate programs in arts and humanities, pure sciences, engineering, business, and medicine.","#N/A",(520) 773-9060,Education,"#N/A","#N/A","#N/A",University of Arizona,39000,3.0,Other,(520) 773-9050,Warm,false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2019-04-07,8350,Gold,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","888 N Euclid 
 Hallis Center, Room 501
 Tucson, AZ 85721
 United States",7321,"#N/A","#N/A","#N/A","#N/A",Customer - Direct,Yes,www.universityofarizona.com,"#N/A"
-a8b6db44-e9ce-40c8-a991-6c8a6e561e4c,CD439877,"#N/A",Yes,5.0E8,Chicago,"#N/A","#N/A","#N/A","#N/A","#N/A",IL,"2334 N. Michigan Avenue, Suite 1500
-Chicago, IL 60601, USA",High,"Chain of hotels and resorts across the US, UK, Eastern Europe, Japan, and SE Asia.","#N/A",(312) 596-1500,Hospitality,"#N/A","#N/A","#N/A",Grand Hotels & Resorts Ltd,5600,57.0,Public,(312) 596-1000,Warm,false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2019-10-08,5572,Gold,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","2334 N. Michigan Avenue, Suite 1500
-Chicago, IL 60601, USA",2268,"#N/A","#N/A",GHTL,"#N/A",Customer - Direct,Yes,www.grandhotels.com,"#N/A"
-e06eaf0e-4f9e-47d0-bc3f-3d6dca8cc14b,CC947211,"#N/A",Yes,9.5E8,Portland,"#N/A","#N/A","#N/A","#N/A","#N/A",OR,"620 SW 5th Avenue Suite 400
-Portland, Oregon 97204
-United States",Medium,Commerical logistics and transportation company.,"#N/A",(503) 421-7801,Transportation,"#N/A","#N/A","#N/A",Express Logistics and Transport,12300,150.0,Public,(503) 421-7800,Cold,false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2019-10-08,4724,Platinum,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","620 SW 5th Avenue Suite 400
-Portland, Oregon 97204
-United States",8742,"#N/A","#N/A",EXLT,"#N/A",Customer - Channel,Maybe,www.expressl&t.net,"#N/A"
-e0b78608-5344-4d10-8ce8-c9f3c029a021,CD451796,"#N/A",Yes,1.39E8,Austin,"#N/A","#N/A","#N/A","#N/A","#N/A",TX,"312 Constitution Place
-Austin, TX 78767
-USA",Medium,"Edge, founded in 1998, is a start-up based in Austin, TX. The company designs and manufactures a device to convert music from one digital format to another. Edge sells its product through retailers and its own website.","#N/A",(512) 757-9000,Electronics,"#N/A","#N/A","#N/A",Edge Communications,1000,2.0,Public,(512) 757-6000,Hot,false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2019-04-07,2657,Silver,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","312 Constitution Place
-Austin, TX 78767
-USA",6576,"#N/A","#N/A",EDGE,"#N/A",Customer - Direct,Maybe,http://edgecomm.com,"#N/A"
-f9d63275-5a82-4833-b60d-c448e8f2f551,CD355120-B,"#N/A",Yes,"#N/A",Singapore,"#N/A","#N/A","#N/A","#N/A","#N/A",Singapore,"9 Tagore Lane
+4a4db987-1f5e-4ba7-be6d-6fddff3e2159,CD355120-B,"#N/A",Yes,"#N/A",Singapore,"#N/A","#N/A","#N/A","#N/A","#N/A",Singapore,"9 Tagore Lane
 Singapore, Singapore 787472
 Singapore",High,"#N/A","#N/A",(650) 450-8820,Energy,"#N/A","#N/A","#N/A","United Oil & Gas, Singapore",3000,6.0,Public,(650) 450-8810,"#N/A",false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2019-10-08,2457,Platinum,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","9 Tagore Lane
 Singapore, Singapore 787472
 Singapore",4437,"#N/A","#N/A",UOS,"#N/A",Customer - Direct,Maybe,http://www.uos.com,"#N/A"
+7c2db23e-c815-49bf-ba67-416c562a7f71,CC947211,"#N/A",Yes,9.5E8,Portland,"#N/A","#N/A","#N/A","#N/A","#N/A",OR,"620 SW 5th Avenue Suite 400
+Portland, Oregon 97204
+United States",Medium,Commerical logistics and transportation company.,"#N/A",(503) 421-7801,Transportation,"#N/A","#N/A","#N/A",Express Logistics and Transport,12300,150.0,Public,(503) 421-7800,Cold,false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2019-10-08,4724,Platinum,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","620 SW 5th Avenue Suite 400
+Portland, Oregon 97204
+United States",8742,"#N/A","#N/A",EXLT,"#N/A",Customer - Channel,Maybe,www.expressl&t.net,"#N/A"
+8a989dd3-0d32-4766-bf60-87f5e4b644b7,CD355118,"#N/A",Yes,5.6E9,New York,"#N/A","#N/A","#N/A","#N/A","#N/A",NY,"1301 Avenue of the Americas 
+New York, NY 10019
+USA",High,World's third largest oil and gas company.,"#N/A",(212) 842-5501,Energy,"#N/A","#N/A","#N/A",United Oil & Gas Corp.,145000,955.0,Public,(212) 842-5500,Hot,false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2019-10-08,6654,Platinum,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","1301 Avenue of the Americas 
+New York, NY 10019
+USA",4437,"#N/A","#N/A",UOS,"#N/A",Customer - Direct,Yes,http://www.uos.com,"#N/A"
+9e58d0c1-956b-4369-90e1-7d752c232a85,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A",testAcct,"#N/A","#N/A","#N/A","#N/A","#N/A",false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A"
+a8caad27-29ba-488d-9551-9de42f79bca2,CC634267,"#N/A",Yes,5.0E7,Lawrence,USA,"#N/A","#N/A","#N/A",66045,KS,1301 Hoch Drive,Low,"#N/A","#N/A",(785) 241-6201,Consulting,"#N/A","#N/A","#N/A",Dickenson plc,120,2.0,Private,(785) 241-6200,"#N/A",false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2019-10-08,7425,Bronze,Lawrence,USA,"#N/A","#N/A","#N/A",66045,KS,1301 Hoch Drive,6752,"#N/A","#N/A","#N/A","#N/A",Customer - Channel,No,dickenson-consulting.com,"#N/A"
+b3abadaf-8579-48d9-a191-28b86c57515e,CD451796,"#N/A",Yes,1.39E8,Austin,"#N/A","#N/A","#N/A","#N/A","#N/A",TX,"312 Constitution Place
+Austin, TX 78767
+USA",Medium,"Edge, founded in 1998, is a start-up based in Austin, TX. The company designs and manufactures a device to convert music from one digital format to another. Edge sells its product through retailers and its own website.","#N/A",(512) 757-9000,Electronics,"#N/A","#N/A","#N/A",Edge Communications,1000,2.0,Public,(512) 757-6000,Hot,false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2019-04-07,2657,Silver,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","312 Constitution Place
+Austin, TX 78767
+USA",6576,"#N/A","#N/A",EDGE,"#N/A",Customer - Direct,Maybe,http://edgecomm.com,"#N/A"
+b76e90e6-5c34-4709-a5e1-e438b9a289bf,CC978213,"#N/A",Yes,3.0E7,Mountain View,"#N/A","#N/A","#N/A","#N/A","#N/A",CA,"345 Shoreline Park
+Mountain View, CA 94043
+USA",Low,Genomics company engaged in mapping and sequencing of the human genome and developing gene-based drugs,"#N/A",(650) 867-9895,Biotechnology,"#N/A","#N/A","#N/A",GenePoint,265,1.0,Private,(650) 867-3450,Cold,false,false,"#N/A","#N/A",false,false,"#N/A","#N/A","#N/A","#N/A",2019-10-08,7324,Bronze,"#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","#N/A","345 Shoreline Park
+Mountain View, CA 94043
+USA",3712,"#N/A","#N/A","#N/A","#N/A",Customer - Channel,Yes,www.genepoint.com,"#N/A"
